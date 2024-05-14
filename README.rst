@@ -9,13 +9,10 @@ openalea.caribu
     :alt: Documentation status
     :target: https://caribu.readthedocs.io/en/latest/?badge=latest
 
-.. image:: https://github.com/openalea/caribu/actions/workflows/openalea-ci.yml/badge.svg
-    :alt: CI status
-    :target: https://github.com/openalea/caribu/actions/workflows/openalea-ci.yml
 
-
-.. image:: https://anaconda.org/openalea3/openalea.caribu/badges/version.svg
-    :target: https://anaconda.org/openalea3/openalea.caribu
+.. image:: https://coveralls.io/repos/github/openalea-incubator/caribu/badge.svg?branch=master
+    :alt: Coverage report status
+    :target: https://coveralls.io/github/openalea-incubator/caribu?branch=master
 
 .. image:: https://anaconda.org/openalea3/openalea.caribu/badges/latest_release_date.svg
     :target: https://anaconda.org/openalea3/openalea.caribu
